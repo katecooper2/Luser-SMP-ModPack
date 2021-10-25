@@ -6,23 +6,23 @@ Not: Bazı Extra Modlar vardır.
 **→  https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.8.2/fabric-installer-0.8.2.exe**
 
 **- Not: Tarayıcınız Virüs olarak algılarsa "Sakla" seçeneğine sıklayın.**
-![Google Chrome](https://www.hizliresim.com/28f6206)
+![Google Chrome](https://i.hizliresim.com/28f6206.png)
 
 **- Fabric kurulum dosyasını indirdikten sonra açarak kurulumu yapın:**
-![Kurulum](https://www.hizliresim.com/b5o2kv6)
+![Kurulum](https://i.hizliresim.com/b5o2kv6.jpg)
 
 ## Modlar Nasıl Kurulur?
 **1. Modları İndirin**
-![İndirme](https://www.hizliresim.com/f62ufhu)
+![İndirme](https://i.hizliresim.com/f62ufhu.jpg)
 
 **2. İndirdiğiniz ZIP Dosyasını Winrar Programı İle Açın**
 
 **3. İçersindeki Bütün Dosyaları** *%appdata%/.minecraft/mods* **Klasörüne Atın**
 Not: *Windows Tuşu + R* ile çalıştır menüsünü açabilirsiniz 
-![Çalıştır](https://www.hizliresim.com/a23sarl)
-![Modlar](https://www.hizliresim.com/72ps0wa)
+![Çalıştır](https://i.hizliresim.com/a23sarl.jpg)
+![Modlar](https://i.hizliresim.com/72ps0wa.jpg)
 
 **4. Oyununuzu FABRIC ile açın**
-![Oyun](https://www.hizliresim.com/4kpj4tf)
+![Oyun](https://i.hizliresim.com/4kpj4tf.jpg)
 
 # Kurulum bu kadar iyi oyunlar ;)
