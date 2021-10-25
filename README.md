@@ -18,7 +18,8 @@ Not: Bazı Extra Modlar vardır.
 **2. İndirdiğiniz ZIP Dosyasını Winrar Programı İle Açın**
 
 **3. İçersindeki Bütün Dosyaları** *%appdata%/.minecraft/mods* **Klasörüne Atın**
-Not: *Windows Tuşu + R* ile çalıştır menüsünü açabilirsiniz 
+Not: *Windows Tuşu + R* ile çalıştır menüsünü açabilirsiniz
+
 ![Çalıştır](https://i.hizliresim.com/a23sarl.jpg)
 ![Modlar](https://i.hizliresim.com/72ps0wa.jpg)
 
